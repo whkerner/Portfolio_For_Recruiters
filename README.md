@@ -1,0 +1,2 @@
+# Portfolio_For_Recruiters
+Please find my projects from data visualization to recommendation systems. Some of datasets derive from open source websites via my MIT course. Others, I scraped from the web or other sources to enable investigation of self-directed hypotheses and method development. I used chat forums to enhance my learning and to assist in tackling any road blocks along my data science journey. Enjoy!-WK
